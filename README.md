@@ -1,0 +1,1 @@
+A modern, responsive HTML/CSS template for creative agencies, portfolios, or business websites. This template features a clean design with multiple sections including services, portfolio, testimonials, pricing, and contact forms.
